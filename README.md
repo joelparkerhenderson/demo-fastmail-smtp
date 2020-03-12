@@ -2,7 +2,9 @@
 
 Demonstration of:
 
-* <a href="https://fastmail.com">Fastmail.com</a> SMTP
+* <a href="https://fastmail.com">Fastmail.com</a>
+
+* Simple Mail Transfer Protocol (SMTP)
 
 * Using the command line to send email.
 

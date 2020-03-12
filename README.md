@@ -8,7 +8,13 @@ Demonstration of:
 
 Contents:
 
-* [](#)
+* [Get our provider's SMTP settings](#get-our-provider-s-smtp-settings)
+* [Security and TLS](#security-and-tls)
+* [Create an application password](#create-an-application-password)
+* [Encode SMTP username and SMTP password](#encode-smtp-username-and-smtp-password)
+* [Connect](#connect)
+* [Verify MX](#verify-mx)
+* [Get our local IP](#get-our-local-ip)
 
 
 ## Get our provider's SMTP settings

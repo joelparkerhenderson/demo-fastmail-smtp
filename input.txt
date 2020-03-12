@@ -1,0 +1,14 @@
+EHLO example.com
+AUTH LOGIN
+NDZhYTc5MTViNGY4ZmM5OWJiNTZiZmRmZDI5YTRkMWUK
+YjAyMWNjMWVmZTY5MTljNTkwOTI5NDM3MmM3ZjMwOWMK=
+MAIL FROM: alice@example.com
+RCPT TO: bob@example.com
+DATA
+From: "Alice Adams" <alice@example.com>
+To: "Bob Brown" <bob@example.com>
+Subject: Testing
+
+This is a test message.
+.
+QUIT

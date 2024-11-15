@@ -10,13 +10,12 @@ Demonstration of:
 
 Contents:
 
-* [Get our provider's SMTP settings](#get-our-provider-s-smtp-settings)
-* [Security and TLS](#security-and-tls)
-* [Create an application password](#create-an-application-password)
-* [Encode SMTP username and SMTP password](#encode-smtp-username-and-smtp-password)
-* [Connect](#connect)
-* [Verify MX](#verify-mx)
-* [Get our local IP](#get-our-local-ip)
+- [Get our provider's SMTP settings](#get-our-providers-smtp-settings)
+- [Security and TLS](#security-and-tls)
+- [Create an application password](#create-an-application-password)
+- [Encode SMTP username and SMTP password](#encode-smtp-username-and-smtp-password)
+- [Connect](#connect)
+- [Get our local IP](#get-our-local-ip)
 
 
 ## Get our provider's SMTP settings
@@ -118,6 +117,11 @@ Input the SMTP password base64:
 bXlzZWNyZXQ=
 ```
 
+Response:
+
+````smtp
+235 2.0.0 OK
+```
 
 
 ## Verify MX

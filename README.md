@@ -119,7 +119,7 @@ bXlzZWNyZXQ=
 
 Response:
 
-````smtp
+```smtp
 235 2.0.0 OK
 ```
 
